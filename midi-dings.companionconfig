@@ -1,0 +1,1093 @@
+{
+	"version": 4,
+	"type": "page",
+	"page": {
+		"name": "PAGE",
+		"controls": {
+			"0": {
+				"0": {
+					"type": "pageup"
+				},
+				"1": {
+					"type": "button",
+					"style": {
+						"text": "Chime\\n1",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "0xTnX6aRCKVAjbk3uz9nQ",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 99,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "D-Ox6wwkdb_FrLhPnUYAU",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 91,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "eAEuo-AzjGvmnl6mShgOO",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 88,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 800
+									},
+									{
+										"id": "l7I6ggBgUtXGFWQMppBQF",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 84,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 1600
+									},
+									{
+										"id": "eAaXdSYodNGduaMM7808q",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 91,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 3000
+									},
+									{
+										"id": "D2cM0VRnkIady6jqFduom",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 88,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 3000
+									},
+									{
+										"id": "pxKaiKyY0cLfuv1EFbcF6",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 84,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 3000
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				},
+				"2": {
+					"type": "button",
+					"style": {
+						"text": "Chime\\n2",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "uMdhA68YdzgSS5emnHhDx",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 89,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0,
+										"disabled": false
+									},
+									{
+										"id": "JYJuoV2x3xiXPNpiCrExR",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 2,
+											"number": 15,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0,
+										"disabled": false
+									},
+									{
+										"id": "-0ULfwP4fEHdTOpXIfdN_",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 59,
+											"velocity": 110,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0,
+										"disabled": false
+									},
+									{
+										"id": "muv3mll_yDCLq983Z8QDy",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 2,
+											"note": 59,
+											"velocity": 100,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0,
+										"disabled": false
+									},
+									{
+										"id": "XaYjY5P-Mkq9PX6vFBBpl",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 54,
+											"velocity": 100,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 800,
+										"disabled": false
+									},
+									{
+										"id": "t-9-ZcouBDVyEEMxYUveH",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 2,
+											"note": 54,
+											"velocity": 120,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 800,
+										"disabled": false
+									},
+									{
+										"id": "rdGaPu683Obnlwebjkbfg",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 59,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 1000,
+										"disabled": false
+									},
+									{
+										"id": "e09ta2Vm6xmzo_XYM52i9",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 2,
+											"note": 59,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 2000,
+										"disabled": false
+									},
+									{
+										"id": "bTbG-vdkanJHc4ykSMWjI",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 54,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 2000,
+										"disabled": false
+									},
+									{
+										"id": "VhI8sbMIIEoUIWUlIOX_S",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 2,
+											"note": 54,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 2000,
+										"disabled": false
+									},
+									{
+										"id": "eYBSFLHvvJWFq_Ak3qduH",
+										"action": "cc",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 2,
+											"controller": 64,
+											"value": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "YvKJnYCSxR8xNILwS6vl1",
+										"action": "cc",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"controller": 64,
+											"value": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "kZivurZwo7vr3cJtNX8P2",
+										"action": "cc",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"controller": 121,
+											"value": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 2000
+									},
+									{
+										"id": "P32h5JBEJIyqf0brIFCbk",
+										"action": "cc",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 2,
+											"controller": 121,
+											"value": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 2000
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				},
+				"3": {
+					"type": "button",
+					"style": {
+						"text": "Chime\\n3",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "nbJVnFTGV8N33-HwL4X2I",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 89,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "ew0mX5yXdgN2n_9Oiy7Ng",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 67,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "51_nZKvAWNrOgRdpFQBD3",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 72,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 200
+									},
+									{
+										"id": "7x4xuIdAb1DMrdVJ4eKrf",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 76,
+											"velocity": 90,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 400
+									},
+									{
+										"id": "H7_jwgKbsZuERwy25H8QO",
+										"action": "cc",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"controller": 123,
+											"value": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 800
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				},
+				"4": {
+					"type": "button",
+					"style": {
+						"text": "Ding",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "tYw7FDw5KPDVxqkRLyQD2",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 12,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "1PQrTjKpgIyeR8fnTpVV-",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 79,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "2Bzr_3D6m2Oh1d5MONzxo",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 79,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 200
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				},
+				"5": {
+					"type": "button",
+					"style": {
+						"text": "Ding\\nDong",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "Ud-VyTfrgs_PEnUK5cLTC",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 12,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "0ebZ4jtArNlJ0NSu1bI3h",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 79,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "pmofIuheXNpVSo0FZnT7g",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 76,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 120
+									},
+									{
+										"id": "-yujvpLIo53dlxoGlCSxP",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 79,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 200
+									},
+									{
+										"id": "GqCQ5vgZihr09T-Io5hd3",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 76,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 300
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				},
+				"6": {
+					"type": "button",
+					"style": {
+						"text": "Phone",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "NBzCzIrynoiYwKSzQUNBD",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 125,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "7eUDPSpw-UTa2yy2bcBrI",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 61,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "DXY-fTRdkajIyUt7OncdS",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 61,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 800
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				},
+				"7": {
+					"type": "button",
+					"style": {
+						"text": "Knock",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "3DtYc05tNh3gcuiy5Z26K",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 116,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "KqQc1KUK_B6GipOEGb1E_",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 61,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "u_UcHHbDxlsrMpcqH9ALh",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 61,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 120
+									},
+									{
+										"id": "xbMZRZAwocCA9Dzn2cga8",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 61,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 240
+									},
+									{
+										"id": "5yk2SwtQINo1BwMPqvi_Z",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 61,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 400
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				}
+			},
+			"1": {
+				"0": {
+					"type": "pagenum"
+				},
+				"1": {
+					"type": "button",
+					"style": {
+						"text": "Tri-tone",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "wskxGCyvvd_XlA4whFDeH",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 13,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "5q1VkQE60Zp31bdr-fHtF",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 62,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0,
+										"disabled": false
+									},
+									{
+										"id": "92ksrbEN26OpKJ2hv_UFR",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 66,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 110
+									},
+									{
+										"id": "pGlHLVp1xdDvDfEDHHVtO",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 74,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 220
+									},
+									{
+										"id": "RNLbcXgmwujubjW2yj1H3",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 62,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 200,
+										"disabled": false
+									},
+									{
+										"id": "0-wqTwGv8g3i4fPcgCIQ0",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 66,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 200
+									},
+									{
+										"id": "B3FRdbDm8xoZoCSFZwrIQ",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 74,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 400
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				},
+				"2": {
+					"type": "button",
+					"style": {
+						"text": "Harp",
+						"textExpression": false,
+						"size": "14",
+						"png64": null,
+						"alignment": "center:center",
+						"pngalignment": "center:center",
+						"color": 16777215,
+						"bgcolor": 0,
+						"show_topbar": "default"
+					},
+					"options": {
+						"relativeDelay": false,
+						"rotaryActions": false,
+						"stepAutoProgress": true
+					},
+					"feedbacks": [],
+					"steps": {
+						"0": {
+							"action_sets": {
+								"down": [
+									{
+										"id": "ctD6H3tBUCRaikDeOiXEd",
+										"action": "program",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"number": 47,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "666vkBmYFq9V4niPmPnae",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 74,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 0
+									},
+									{
+										"id": "_uoQXVaHBSgVV7LvqEMwe",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 74,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 200
+									},
+									{
+										"id": "dIrjbjczmYSy_zXM7mmOa",
+										"action": "noteon",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 69,
+											"velocity": 127,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 100
+									},
+									{
+										"id": "l67xIxbiTEN6GeIISj_Xf",
+										"action": "noteoff",
+										"instance": "5eN0E2LSVIJU3NmWCZpAz",
+										"options": {
+											"channel": 1,
+											"note": 69,
+											"velocity": 0,
+											"varValue": "",
+											"useVariables": false,
+											"relValue": false
+										},
+										"delay": 200
+									}
+								],
+								"up": []
+							},
+							"options": {
+								"runWhileHeld": []
+							}
+						}
+					}
+				}
+			},
+			"2": {
+				"0": {
+					"type": "pagedown"
+				}
+			}
+		},
+		"gridSize": {
+			"minColumn": 0,
+			"maxColumn": 7,
+			"minRow": 0,
+			"maxRow": 3
+		}
+	},
+	"instances": {
+		"5eN0E2LSVIJU3NmWCZpAz": {
+			"instance_type": "generic-midi",
+			"sortOrder": 5,
+			"label": "generic-midi",
+			"isFirstInit": false,
+			"config": {
+				"inPortName": "Focusrite USB MIDI",
+				"outPortName": "Microsoft GS Wavetable Synth",
+				"inPortIsVirtual": false,
+				"outPortIsVirtual": false
+			},
+			"lastUpgradeIndex": -1,
+			"enabled": true
+		}
+	},
+	"oldPageNumber": 6
+}
